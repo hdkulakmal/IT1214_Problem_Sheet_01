@@ -87,8 +87,8 @@ class Main{
     public static void main(String[] args){
         Bank bank=new Bank();
 
-        BankAccount b1=new BankAccount(1001,"Alice",5000.00);
-        BankAccount b2=new BankAccount(1002,"Bob",3000.00);
+        BankAccount b1=new BankAccount(1001,"Kasun",5000.00);
+        BankAccount b2=new BankAccount(1002,"Dilshan",3000.00);
 
         bank.addAccount(b1);
         bank.addAccount(b2);
