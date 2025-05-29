@@ -71,9 +71,9 @@ class Main{
   public static void main(String[] args){
     Classroom classroom=new Classroom();
 
-    Student s1=new Student(101, "Alice Smith", 12);
-    Student s2=new Student(102, "Bob Jones", 15);
-    Student s3=new Student(103, "Carol Lee", 10);
+    Student s1=new Student(101, "Kasun", 12);
+    Student s2=new Student(102, "Dilshan", 15);
+    Student s3=new Student(103, "Nethsara", 10);
 
     classroom.addStudent(s1);
     classroom.addStudent(s2);
