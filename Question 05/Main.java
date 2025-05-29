@@ -38,7 +38,7 @@ class Student{
 class Main {
     public static void main(String[] args) {
         try {
-            Student s1 = new Student("John", 75, 110, 90);
+            Student s1 = new Student("Kasun", 75, 50, 90);
             System.out.println("Name: "+s1.getName());
             System.out.println("Average: "+s1.calAverage());
         }
